@@ -21,6 +21,7 @@ function App() {
             Learn React
           </a>
         </p>
+        <div>Here's to React!</div>
       </header>
     </div>
   );
