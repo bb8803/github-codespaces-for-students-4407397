@@ -15,4 +15,10 @@
             "onAutoForward": "openPreview"
         }
     }
+
+    "customizations": {
+        "vscode": {
+            "extensions": ["esbenp.prettier-vscode"]
+        }
+    }
 }
