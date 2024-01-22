@@ -14,9 +14,7 @@
             " label": "React App",
             "onAutoForward": "openPreview"
         }
-    }
-
-
+    },
 
    "customizations": {
         "vscode": {
